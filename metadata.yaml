@@ -1,0 +1,64 @@
+_repo: The-Economic-Consequences-of-the-Peace_15776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keynes, John Maynard
+    aliases:
+    - Keynes, J. M. (John Maynard)
+    - Keynes, John Maynard Keynes, Baron
+    birthdate: 1883
+    deathdate: 1946
+    gutenberg_agent_id: '6280'
+    url: http://www.gutenberg.org/2009/agents/6280
+    wikipedia: http://en.wikipedia.org/wiki/John_Maynard_Keynes
+description: "The Economic Consequences of the Peace (1919) is a book written and\
+  \ published by the British economist John Maynard Keynes. After the First World\
+  \ War, Keynes attended the Paris Peace Conference of 1919 as a delegate of the British\
+  \ Treasury. In his book, he argued for a much more generous peace, not out of a\
+  \ desire for justice or fairness – these are aspects of the peace that Keynes does\
+  \ not deal with – but for the sake of the economic well-being of all of Europe,\
+  \ including the Allied Powers, which the Treaty of Versailles and its associated\
+  \ treaties would prevent.\nThe book was a best-seller throughout the world and was\
+  \ critical in establishing a general opinion that the treaties were a \"Carthaginian\
+  \ peace\" designed to crush the defeated Central Powers, especially Germany. It\
+  \ helped to consolidate American public opinion against the treaties and against\
+  \ joining the League of Nations. The perception by much of the British public that\
+  \ Germany had been treated unfairly was, in turn, a crucial factor in later public\
+  \ support for the appeasement of Hitler.\nThe success of the book established Keynes'\
+  \ reputation as a leading economist, especially on the left. When Keynes was a key\
+  \ player in establishing the Bretton Woods system in 1944, he remembered the lessons\
+  \ from Versailles as well as the Great Depression. The Marshall Plan, which was\
+  \ promulgated to rebuild Europe after the Second World War, was similar to the system\
+  \ proposed by Keynes in The Economic Consequences of the Peace.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- World War I
+gutenberg_issued: '2005-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15776'
+  lccn: '20002057'
+  wikidata: Q2299605
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Economic aspects'
+- !lcsh 'Economic history -- 1918-1945'
+- !lcc 'HC'
+- !lcsh 'Treaty of Versailles (1919 June 28)'
+title: The Economic Consequences of the Peace
+url: http://www.gutenberg.org/ebooks/15776
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_Cons%C3%A9quences_%C3%A9conomiques_de_la_paix
+- https://pt.wikipedia.org/wiki/As_Consequ%C3%AAncias_Econ%C3%B3micas_da_Paz
+- https://eu.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace
+- https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace
+- https://it.wikipedia.org/wiki/Le_conseguenze_economiche_della_pace
+- https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D0%BC%D0%B8%D1%80%D0%B0
+- https://sv.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace
